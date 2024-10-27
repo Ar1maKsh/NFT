@@ -1,0 +1,9 @@
+@media (max-width: 605px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+  }
+  /* .header-logo { */
+  /* display: flex; */
+  /* flex-direction: column; */
+}
